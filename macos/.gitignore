@@ -1,0 +1,17 @@
+# Flutter-related
+**/Flutter/ephemeral/
+**/Pods/
+**/.symlinks/
+Flutter/GeneratedPluginRegistrant.swift
+
+# Xcode-related
+**/dgph
+**/xcuserdata/
+**/DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# OS-related
+.DS_Store

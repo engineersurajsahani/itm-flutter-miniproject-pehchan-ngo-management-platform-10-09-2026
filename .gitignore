@@ -1,0 +1,90 @@
+# Miscellaneous / OS
+*.class
+*.log
+*.pyc
+*.swp
+*.bak
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# Database / SQLite local storage
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# Flutter / Dart / Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Web related
+.web_entrypoint.dart
+
+# Symbolication & Obfuscation
+app.*.symbols
+app.*.map.json
+
+# Android Studio & Gradle
+/android/app/debug
+/android/app/profile
+/android/app/release
+/android/.gradle
+/android/.cxx
+/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+key.properties
+**/*.keystore
+**/*.jks
+
+# iOS & macOS Flutter / CocoaPods
+**/Flutter/ephemeral/
+**/Flutter/Generated.xcconfig
+**/Flutter/flutter_export_environment.sh
+**/Runner/GeneratedPluginRegistrant.*
+**/Pods/
+**/.symlinks/
+**/DerivedData/
+xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Widget Preview related
+.widget_preview/
